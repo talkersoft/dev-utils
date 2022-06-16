@@ -186,9 +186,6 @@ publish/
 # in these scripts will be unencrypted
 PublishScripts/
 
-# publish directory for dotnet
-
-**/.publish/
 # NuGet Packages
 *.nupkg
 # The packages folder can be ignored because of Package Restore
@@ -554,15 +551,6 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 
-Websites/CECity.PQRSWizard.Web/app.js
-Websites/CECity.PQRSWizard.Web/app.js.map
-Websites/CECity.PQRSWizard.Web/app/**/*.js
-Websites/CECity.PQRSWizard.Web/app/**/*.js.map
-Websites/CECity.PQRSWizard.Web/Entities/**/*.js
-Websites/CECity.PQRSWizard.Web/Entities/**/*.js.map
-Websites/CECity.PQRSWizard.Web/typings/**/*.js
-Websites/CECity.PQRSWizard.Web/typings/**/*.js.map
-Websites/CECity.PQRSWizard.Web/git-flow
 .vscode/
 .idea/
 *.iml
